@@ -22,4 +22,4 @@ in the index.js file you type this:
 in the greeting.js file you type this: 
   <p>{this.props.greeting}</p>
 
-https://user-images.githubusercontent.com/499192/57450172-1a955f80-725e-11e9-9fed-267179bdab15.gif
+<img src="https://user-images.githubusercontent.com/499192/57450172-1a955f80-725e-11e9-9fed-267179bdab15.gif" alt="uploading image file to GitHub's CDN" />
